@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2,
+    "name": "黑色长裤",
+    "category": "裤子",
+    "color": "黑色",
+    "season": "四季"
+  },
+  {
+    "id": 3,
+    "name": "蓝色外套",
+    "category": "外套",
+    "color": "蓝色",
+    "season": "秋季"
+  },
+  {
+    "id": 4,
+    "name": "灰色卫衣",
+    "category": "上衣",
+    "color": "灰色",
+    "season": "冬季"
+  },
+  {
+    "id": 5,
+    "name": "米色短裤",
+    "category": "裤子",
+    "color": "米色",
+    "season": "夏季"
+  },
+  {
+    "id": 6,
+    "name": "红色裙子",
+    "category": "裙子",
+    "color": "红色",
+    "season": "夏季"
+  },
+  {
+    "id": 7,
+    "name": "白色短袖",
+    "category": "上衣",
+    "color": "白色",
+    "season": "夏季"
+  }
+]
