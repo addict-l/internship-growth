@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "白色短袖",
+    "category": "上衣",
+    "color": "白色",
+    "season": "夏季",
+    "scenes": ["日常", "运动"]
+  },
+  {
+    "id": 2,
+    "name": "黑色长裤",
+    "category": "裤子",
+    "color": "黑色",
+    "season": "四季",
+    "scenes": ["日常", "通勤"]
+  },
+  {
+    "id": 3,
+    "name": "蓝色外套",
+    "category": "外套",
+    "color": "蓝色",
+    "season": "春秋",
+    "scenes": ["日常", "通勤"]
+  },
+  {
+    "id": 4,
+    "name": "白色衬衫",
+    "category": "上衣",
+    "color": "白色",
+    "season": "四季",
+    "scenes": ["通勤", "正式"]
+  }
+]
