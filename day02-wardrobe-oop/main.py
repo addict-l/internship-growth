@@ -59,8 +59,8 @@ def main() -> None:
             if not results:
                 print("没有符合条件的推荐。")
             else:
-                for clothing, score, reasons in results:
-                    clothing.display()
+                for a, score, reasons in results:
+                    a.display()
                     print(f"得分: {score}")
                     print(f"推荐原因: {', '.join(reasons)}")
                     print("-" * 50)
